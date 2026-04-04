@@ -5,7 +5,7 @@ This repository contains SQL queries designed to help data analysts and BI profe
 ---
 
 ### 🙏 Credits / Acknowledgements
-- This Data Warehouse Project was developed following a tutorial by https://www.youtube.com/@DataWithBaraa  
+- This Data Analytics Project was developed following a tutorial by https://www.youtube.com/@DataWithBaraa  
 - Any references or learning resources used are acknowledged here
  
 ---
