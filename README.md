@@ -4,6 +4,12 @@ This repository contains SQL queries designed to help data analysts and BI profe
 
 ---
 
+### 🙏 Credits / Acknowledgements
+- This Data Warehouse Project was developed following a tutorial by https://www.youtube.com/@DataWithBaraa  
+- Any references or learning resources used are acknowledged here
+ 
+---
+
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
